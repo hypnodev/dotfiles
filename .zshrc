@@ -123,6 +123,6 @@ echo -e "\033]6;1;bg;blue;brightness;33\a"
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 # Laravel setups
-ARTISAN_OPEN_ON_MAKE_EDITOR=code
+ARTISAN_OPEN_ON_MAKE_EDITOR=pstorm
 alias tinker="artisan tinker"
 

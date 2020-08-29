@@ -5,7 +5,7 @@ export GOPATH=$HOME/go
 export PATH=$HOME/bin:/usr/local/bin:~/.composer/vendor/bin:~/Library/Python/2.7/bin:$GOROOT/bin:$GOPATH/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/hypnodev/.oh-my-zsh
+export ZSH=~/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
